@@ -1,9 +1,9 @@
 
-# 🏄‍♂️ Kian Chaves
+# Olá! Eu sou o Kian Chaves Oliveira 👋
 
 **`QA Engineer`**
 
-Me chamo Kian Chaves Oliveira, tenho 31 anos e sou natural de Minas Gerais, atualmente residindo em Florianópolis. Nasci dentro de uma oficina de eletrônica e meu primeiro computador eu mesmo momentei aos 9 anos de idade. Me formei em Gestão da Tecnologia da Informação pela UniBH e trabalhei durante anos na área de Infraestrutura Hospitalar. Atualmente estou em busca de uma oportunidade para entrar na àrea de Desenvolvimento, que sempre foi um desejo. Uma curiosidade sobre mim é que no meu tempo livre Surfo, ou pelo menos tento.
+Tenho 31 anos, sou mineiro e atualmente moro em Florianópolis. Desde pequeno sou apaixonado por tecnologia — nasci em meio a uma oficina de eletrônica e montei meu primeiro computador aos 9 anos. Sou formado em Gestão da Tecnologia da Informação pela UniBH e atuei por vários anos na área de Infraestrutura Hospitalar. Hoje, estou em transição para a área de Testes de Software (QA), um desejo antigo que finalmente decidi colocar em prática. E quando não estou analisando sistemas ou criando cenários de teste, você provavelmente vai me encontrar tentando surfar (ainda aprendendo, mas com muito entusiasmo!). 🏄‍♂️
 
 ### 🤖 Linguagens e Tecnologias
 <div align="left">

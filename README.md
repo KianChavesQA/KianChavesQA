@@ -5,6 +5,8 @@
 
 Tenho 31 anos, sou mineiro e atualmente moro em Florianópolis. Desde pequeno sou apaixonado por tecnologia — nasci em meio a uma oficina de eletrônica e montei meu primeiro computador aos 9 anos. Sou formado em Gestão da Tecnologia da Informação pela UniBH e atuei por vários anos na área de Infraestrutura Hospitalar. Hoje, estou em transição para a área de Testes de Software (QA), um desejo antigo que finalmente decidi colocar em prática. E quando não estou analisando sistemas ou criando cenários de teste, você provavelmente vai me encontrar tentando surfar (ainda aprendendo, mas com muito entusiasmo!). 
 
+<img src="https://raw.githubusercontent.com/rafaelzanella17/rafaelzanella17/output/snake.svg" alt="Snake animation" />
+
 ### 🤖 Linguagens e Tecnologias
 <div align="left">
     <img 
@@ -89,7 +91,7 @@ Tenho 31 anos, sou mineiro e atualmente moro em Florianópolis. Desde pequeno so
     />
 </div>
 
-<img src="https://raw.githubusercontent.com/rafaelzanella17/rafaelzanella17/output/snake.svg" alt="Snake animation" />
+
 
 <br clear="all"/>
 <br clear="all"/>

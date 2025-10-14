@@ -89,6 +89,8 @@ Tenho 31 anos, sou mineiro e atualmente moro em Florianópolis. Desde pequeno so
     />
 </div>
 
+<img src="https://raw.githubusercontent.com/rafaelzanella17/rafaelzanella17/output/snake.svg" alt="Snake animation" />
+
 <br clear="all"/>
 <br clear="all"/>
 

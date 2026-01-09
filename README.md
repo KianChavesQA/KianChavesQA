@@ -37,12 +37,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
 
-
-### <div align="center"> 📊 Estatísticas</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KianChavesQA&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=false" height="180" alt="languages graph" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=KianChavesQA&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=pt-br&hide_border=false" height="180" alt="stats graph" />
-</div>
-

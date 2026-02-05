@@ -12,9 +12,16 @@
   </a>
 </div>
 
- ### **`QA Engineer`** 
+  <p align="center">### **`QA Engineer`** </p>
 
 [![Kian's GitHub stats](https://github-readme-stats.vercel.app/api?username=KianChavesQA)](https://github.com/KianChavesQA/github-readme-stats)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KianChavesQA/KianChavesQA/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KianChavesQA/KianChavesQA/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/KianChavesQA/KianChavesQA/output/pacman-contribution-graph.svg">
+</picture>
+
 
 ### <p align="center"> 🤖Linguagens e Tecnologias</p>
 

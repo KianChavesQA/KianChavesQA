@@ -68,11 +68,7 @@ Sou um QA Engineer focado em garantir a excelência técnica através das boas p
 </div>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KianChavesQA/KianChavesQA/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KianChavesQA/KianChavesQA/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/KianChavesQA/KianChavesQA/output/pacman-contribution-graph.svg" width="100%">
-  </picture>
+  <img src="https://raw.githubusercontent.com/KianChavesQA/KianChavesQA/output/github-contribution-grid-snake.svg" alt="Pacman" />
 </div>
 
 ---

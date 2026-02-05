@@ -13,7 +13,6 @@
 </div>
 
 ### **`QA Engineer`** 
-#### Tenho 31 anos, sou mineiro e atualmente moro em Florianópolis. Desde pequeno sou apaixonado por tecnologia — nasci em meio a uma oficina de eletrônica e montei meu primeiro computador aos 9 anos. Sou formado em Gestão da Tecnologia da Informação pela UniBH e atuei por vários anos na área de Infraestrutura Hospitalar. Hoje, estou em transição para a área de Testes de Software (QA), um desejo antigo que finalmente decidi colocar em prática. E quando não estou analisando sistemas ou criando cenários de teste, você provavelmente vai me encontrar tentando surfar (ainda aprendendo, mas com muito entusiasmo!). 🏄‍♂️
 
 
 ### <p align="center"> 🤖Linguagens e Tecnologias</p>
@@ -35,5 +34,19 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
   <img width="14" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-line.svg height="40" alt="jenkins logo"/>
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
+          
+
+          
+  
+          
+  
 </div>
 

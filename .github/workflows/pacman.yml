@@ -1,17 +1,13 @@
-name: Generate Pacman Snake
+name: Generate Pacman
 
 on:
-  # Roda automaticamente a cada 24 horas
   schedule:
+    # Roda a cada 24 horas
     - cron: "0 0 * * *"
-  
-  # Permite rodar manualmente a qualquer momento
   workflow_dispatch:
-
-  # Roda a cada push no branch main
   push:
     branches:
-    - main
+      - main
 
 jobs:
   generate:
@@ -19,16 +15,17 @@ jobs:
     timeout-minutes: 10
     
     steps:
-      # Gera o gráfico do Pacman/Snake a partir das contribuições do usuário
-      - name: generate github-contribution-grid-snake.svg
+      # Gera o arquivo SVG do Pacman
+      - name: generate-pacman-svg
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      # Faz o push do arquivo gerado para o branch 'output'
+          # Aqui é o segredo: as cores que o gerador usa para simular o Pacman
+          # Se o seu tema for personalizado, você pode ajustar os hexadecimais abaixo
+          
       - name: push github-contribution-grid-snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:

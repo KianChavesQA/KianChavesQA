@@ -14,7 +14,7 @@
 
  ### **`QA Engineer`** 
 
-[![Kian Chaves's GitHub stats](https://github-readme-stats.vercel.app/api?username=kianchavesqa)](https://github.com/kianchavesqa/github-readme-stats)
+[![Kian's GitHub stats](https://github-readme-stats.vercel.app/api?username=KianChavesQA)](https://github.com/KianChavesQA/github-readme-stats)
 
 ### <p align="center"> 🤖Linguagens e Tecnologias</p>
 

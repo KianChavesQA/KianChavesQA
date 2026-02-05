@@ -63,8 +63,7 @@ Sou um QA Engineer focado em garantir a excelência técnica através das boas p
 ### 📈 Estatísticas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KianChavesQA&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Kian Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KianChavesQA&layout=compact&theme=dracula" alt="Kian Top Langs" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KianChavesQA&theme=dracula" alt="Kian Streak" height="180" />
 </div>
 
 <div align="center">
